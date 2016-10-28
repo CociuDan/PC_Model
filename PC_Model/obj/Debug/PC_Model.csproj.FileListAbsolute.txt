@@ -1,0 +1,5 @@
+F:\Tekwill\JOB\PC_Model\bin\Debug\PC_Model.dll
+F:\Tekwill\JOB\PC_Model\bin\Debug\PC_Model.pdb
+F:\Tekwill\JOB\PC_Model\obj\Debug\PC_Model.csprojResolveAssemblyReference.cache
+F:\Tekwill\JOB\PC_Model\obj\Debug\PC_Model.dll
+F:\Tekwill\JOB\PC_Model\obj\Debug\PC_Model.pdb
